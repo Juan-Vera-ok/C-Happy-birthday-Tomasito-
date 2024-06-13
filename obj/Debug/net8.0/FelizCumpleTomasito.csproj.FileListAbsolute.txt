@@ -1,0 +1,14 @@
+/root/Source/C/FelizCumpleTomasito/bin/Debug/net8.0/FelizCumpleTomasito
+/root/Source/C/FelizCumpleTomasito/bin/Debug/net8.0/FelizCumpleTomasito.deps.json
+/root/Source/C/FelizCumpleTomasito/bin/Debug/net8.0/FelizCumpleTomasito.runtimeconfig.json
+/root/Source/C/FelizCumpleTomasito/bin/Debug/net8.0/FelizCumpleTomasito.dll
+/root/Source/C/FelizCumpleTomasito/bin/Debug/net8.0/FelizCumpleTomasito.pdb
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.GeneratedMSBuildEditorConfig.editorconfig
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.AssemblyInfoInputs.cache
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.AssemblyInfo.cs
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.csproj.CoreCompileInputs.cache
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.dll
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/refint/FelizCumpleTomasito.dll
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.pdb
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/FelizCumpleTomasito.genruntimeconfig.cache
+/root/Source/C/FelizCumpleTomasito/obj/Debug/net8.0/ref/FelizCumpleTomasito.dll
